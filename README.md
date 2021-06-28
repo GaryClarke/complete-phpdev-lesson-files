@@ -1,1 +1,3 @@
-# complete-phpdev-lesson-files
+# Lesson Files
+
+Each lesson has its own branch.
