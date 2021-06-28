@@ -1,0 +1,12 @@
+{
+    "require": {
+        "phpunit/phpunit": "^9.5",
+        "symfony/var-dumper": "^5.2"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    }
+}
