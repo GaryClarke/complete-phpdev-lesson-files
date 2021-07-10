@@ -1,4 +1,4 @@
-cd <?php
+<?php
 
 namespace App\Model;
 
